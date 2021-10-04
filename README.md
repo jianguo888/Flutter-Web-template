@@ -1,16 +1,31 @@
 # flutter_web
 
-A new Flutter application.
+![ice_screenshot_20210626-151605](https://luckly007.oss-cn-beijing.aliyuncs.com/img/ice_screenshot_20210626-151605.png)
 
-## Getting Started
+Flutter Web - 仪表板网站模板教你如何构建响应式仪表板网站。
 
-This project is a starting point for a Flutter application.
+[gitee](https://gitee.com/itmxs/flutter-web-template)
 
-A few resources to get you started if this is your first Flutter project:
+[github](https://github.com/ITmxs/Flutter-Web-template)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# 哔哩哔哩
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[视频链接](https://www.bilibili.com/video/BV1B341127vW?spm_id_from=333.999.0.0)
+
+
+
+
+
+微信公众号
+
+![qrcode_for_gh_4eda026a4496_258](https://luckly007.oss-cn-beijing.aliyuncs.com/img/qrcode_for_gh_4eda026a4496_258.jpg)
+
+[csdn](https://www.zhihu.com/people/yimi-yang-guang-96-65)
+
+[掘金](https://juejin.cn/user/3843548384077192)
+
+[知乎](https://www.zhihu.com/people/yimi-yang-guang-96-65)
+
+[云加社区](https://cloud.tencent.com/developer/user/6702670)
+
+[简书](
