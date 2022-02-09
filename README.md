@@ -17,8 +17,8 @@ Flutter Web - 仪表板网站模板教你如何构建响应式仪表板网站。
 
 
 微信公众号
+![公众号二维码](https://luckly007.oss-cn-beijing.aliyuncs.com/image/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
 
-![qrcode_for_gh_4eda026a4496_258](https://luckly007.oss-cn-beijing.aliyuncs.com/img/qrcode_for_gh_4eda026a4496_258.jpg)
 
 [csdn](https://www.zhihu.com/people/yimi-yang-guang-96-65)
 
